@@ -1,3 +1,5 @@
+# Application for Food Ordering app for a resturant.
+
 class FoodItem:
     def __init__(self, food_id, name, quantity, price, discount, stock):
         self.food_id = food_id
